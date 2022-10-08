@@ -1,5 +1,5 @@
 # JavaSwingTimeTable
-Java Swing app that creates time tables optional in word, pdf or excel. This app was build as a part of a course I took during my bachelor degree with four other students.
+Java Swing app that creates time tables optional in word, pdf or excel. This app was build as a part of a course I took during my bachelor degree with three other students.
 
 The user is asked to provide an adjacent matrix of a network where each vertice is associated with a number (possible infinit, which shall be indicated thruw the letter e).
 
